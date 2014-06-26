@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>js-yaml</artifactId>
-    <version>3.0.2</version>
+    <version>3.0.3-SNAPSHOT</version>
     <name>js-yaml</name>
     <description>WebJar for js-yaml</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/js-yaml</url>
         <connection>scm:git:https://github.com/webjars/js-yaml.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/js-yaml.git</developerConnection>
-        <tag>js-yaml-3.0.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
